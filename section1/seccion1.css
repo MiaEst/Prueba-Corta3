@@ -1,0 +1,50 @@
+.section1{
+    padding: 48 24px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.texto1{
+    font-size: 13px;
+    margin-top: 40px;
+    font-family:Arial;
+    color: #486284;
+    ;
+}
+.slogan{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #486284;
+
+    
+}
+.descripcion{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #8ca2c0;
+}
+
+.btn1 {
+    width: 88%;
+    border: 1px solid #486284;
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #486284;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    
+} 
+.htmlimg{
+    width: 90%;
+    height: auto;
+    margin: 10px;
+    margin-top: auto;
+}
